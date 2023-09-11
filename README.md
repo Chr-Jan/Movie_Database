@@ -7,3 +7,6 @@ https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?
 For paging:
 
 https://learn.microsoft.com/en-gb/aspnet/core/data/ef-mvc/?view=aspnetcore-6.0
+
+adding loging and start of auth.:
+https://youtu.be/uGoNCJf0t1g?si=EUBz27YoSvgUxrgp

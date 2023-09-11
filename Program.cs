@@ -2,6 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using MvcMovie.Data;
 using MvcMovie.Models;
+using Microsoft.AspNetCore.Authentication.Cookies;
 namespace MvcMovie
 {
     public class Program
@@ -14,6 +15,13 @@ namespace MvcMovie
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddAuthentication(
+                CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(option =>
+                {
+                    option.LoginPath = "/Access/Login";
+                    option.ExpireTimeSpan = TimeSpan.FromMinutes(20);
+                });
 
             var app = builder.Build();
 
@@ -37,11 +45,13 @@ namespace MvcMovie
 
             app.UseRouting();
 
+            app.UseAuthentication();
+
             app.UseAuthorization();
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Access}/{action=Login}/{id?}");
 
             app.Run();
         }
