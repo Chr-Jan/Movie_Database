@@ -24,7 +24,7 @@ namespace MvcMovie.Controllers
         public async Task<IActionResult> Login(VMLogin modelLogin)
         {
 
-            if (modelLogin.Email == "User@exameple.com" &&
+            if (modelLogin.Email == "user@email.com" &&
                 modelLogin.PassWord == "123") 
             {
                 List<Claim> claims = new List<Claim>()
