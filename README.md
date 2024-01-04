@@ -20,9 +20,5 @@ Explore additional functionalities such as sorting, filtering, and paging by fol
 
 For a more feature-rich experience, watch the tutorial on [Adding Logging and Start of Authentication](https://youtu.be/uGoNCJf0t1g?si=EUBz27YoSvgUxrgp).
 
-## Contribution
-
-Feel free to contribute to this project by submitting issues or pull requests. Your feedback and contributions are highly valued.
-
 **Description:**
 MvcMovie is a compact application where users can log in and access a small movie database with pagination and CRUD functionality. It offers a delightful experience for movie enthusiasts to manage and explore their favorite films effortlessly. Happy movie browsing! 🎬🍿
