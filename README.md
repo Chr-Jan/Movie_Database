@@ -25,3 +25,5 @@ Follow the provided [Microsoft ASP.NET Core Tutorial](https://learn.microsoft.co
 Explore additional functionalities such as sorting, filtering, and paging by following the tutorial on [EF in ASP.NET Core](https://learn.microsoft.com/en-gb/aspnet/core/data/ef-mvc/?view=aspnetcore-6.0).
 
 For a more feature-rich experience, watch the tutorial on [Adding Logging and Start of Authentication](https://youtu.be/uGoNCJf0t1g?si=EUBz27YoSvgUxrgp).
+
+<img src="github_images/"
