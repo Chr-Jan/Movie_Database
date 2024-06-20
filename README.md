@@ -1,6 +1,6 @@
 # Movie database
 
-Welcome to MvcMovie, a sleek and efficient ASP.NET Core MVC application designed for movie enthusiasts. This small application offers a user-friendly interface for managing a curated movie database.
+Welcome to MvcMovie, an ASP.NET Core MVC application designed for movie enthusiasts. This sleek application provides a user-friendly interface for managing a curated movie database.
 
 - **User Login:**
   - **User:** user@email.com
@@ -9,6 +9,7 @@ Welcome to MvcMovie, a sleek and efficient ASP.NET Core MVC application designed
 - **Features:**
   - **CRUD Functionality:** Create, Read, Update, and Delete movie entries effortlessly.
   - **Pagination:** Seamlessly navigate through the movie database with built-in pagination.
+  - **Login/Logout:** Securely log in to access the movie database and log out when done.
   
 ## Getting Started
 
@@ -19,6 +20,3 @@ Follow the provided [Microsoft ASP.NET Core Tutorial](https://learn.microsoft.co
 Explore additional functionalities such as sorting, filtering, and paging by following the tutorial on [EF in ASP.NET Core](https://learn.microsoft.com/en-gb/aspnet/core/data/ef-mvc/?view=aspnetcore-6.0).
 
 For a more feature-rich experience, watch the tutorial on [Adding Logging and Start of Authentication](https://youtu.be/uGoNCJf0t1g?si=EUBz27YoSvgUxrgp).
-
-**Description:**
-MvcMovie is a compact application where users can log in and access a small movie database with pagination and CRUD functionality. It offers a delightful experience for movie enthusiasts to manage and explore their favorite films effortlessly. Happy movie browsing! 🎬🍿
