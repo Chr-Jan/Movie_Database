@@ -1,4 +1,4 @@
-# MvcMovie
+# Movie database
 
 Welcome to MvcMovie, a sleek and efficient ASP.NET Core MVC application designed for movie enthusiasts. This small application offers a user-friendly interface for managing a curated movie database.
 
