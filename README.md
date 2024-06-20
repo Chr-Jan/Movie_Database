@@ -12,8 +12,8 @@ Welcome to MvcMovie, an ASP.NET Core MVC application designed for movie enthusia
   - **Login/Logout:** Securely log in to access the movie database and log out when done.
 
  
-  - **Before starting:**
-    - Run "update-database".
+- **Before starting:**
+  - Run "update-database".
    
     
 ## Getting Started
