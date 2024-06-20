@@ -10,7 +10,7 @@ Welcome to MvcMovie, an ASP.NET Core MVC application designed for movie enthusia
   - **CRUD Functionality:** Create, Read, Update, and Delete movie entries effortlessly.
   - **Pagination:** Seamlessly navigate through the movie database with built-in pagination.
   - **Login/Logout:** Securely log in to access the movie database and log out when done.
- 
+ <br>
   - **Before starting:**
     - Run "update-database". 
 ## Getting Started
