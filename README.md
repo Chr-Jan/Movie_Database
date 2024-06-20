@@ -26,6 +26,6 @@ Explore additional functionalities such as sorting, filtering, and paging by fol
 
 For a more feature-rich experience, watch the tutorial on [Adding Logging and Start of Authentication](https://youtu.be/uGoNCJf0t1g?si=EUBz27YoSvgUxrgp).
 <div>
-  <img src="github_images/MovieDatabase.png"/>
-  <img src="github_images/MovieDatabase2.png"/>
+    <img src="github_images/MovieDatabase2.png"/>
+    <img src="github_images/MovieDatabase.png"/>
 </div>
